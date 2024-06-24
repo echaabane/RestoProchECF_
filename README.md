@@ -5,14 +5,11 @@ Projet ECF pour Bachelor Administrateur DEVOPS en collaboration avec Study et Al
 
 - Terraform
 - AWS CLI configuré
-- Node.js et npm
 
 ## Structure du Projet
 
 - `terraform/`: Contient les fichiers Terraform pour déployer l'infrastructure.
-- `react-app/`: Contient l'application ReactJS.
-- `deployment/`: Contient le script de déploiement.
-- `monitoring/`: Contient les configurations pour Prometheus et Grafana.
+
 
 ## Instructions
 
