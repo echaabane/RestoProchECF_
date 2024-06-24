@@ -3,8 +3,8 @@ region = "eu-west-2"
 type           = string
 
 # AWS credentials
-aws_access_key = "AKIA4MTWJWRYLO27LXX3"
-aws_secret_key = "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"
+aws_access_key = "SECRET"
+aws_secret_key = "SECRET"
 type           = string
 
 # EC2 instance type
